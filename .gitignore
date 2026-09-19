@@ -1,0 +1,10 @@
+# Dependencies & builds
+node_modules/
+frontend/dist/
+.venv/
+__pycache__/
+*.pyc
+
+# Local config & data
+.env
+*.db
